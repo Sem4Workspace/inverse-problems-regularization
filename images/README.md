@@ -86,15 +86,15 @@ where `δ` is the noise level and `τ ≈ 1.05` is a safety factor.
 
 ```
 inverse-problems-regularization/
-├── requirements.txt          # Python dependencies
-├── README.md                 # This file
-├── notebook0.ipynb           # Phase 0: Pseudoinverse instability
-├── notebook1.ipynb           # Phase 1: Forward problem setup
-├── tikhonov.ipynb            # Tikhonov regularization
-├── tsvd.ipynb                # Truncated SVD
-├── nsit_morozpv.ipynb        # NSIT + Morozov discrepancy
-└── images/
-    └── 296059.jpg            # Test image
+images/
+      ├── requirements.txt          # Python dependencies
+      ├── README.md                 # This file
+      ├── notebook0.ipynb           # Phase 0: Pseudoinverse instability
+      ├── notebook1.ipynb           # Phase 1: Forward problem setup
+      ├── tikhonov.ipynb            # Tikhonov regularization
+      ├── tsvd.ipynb                # Truncated SVD
+      ├── nsit_morozpv.ipynb        # NSIT + Morozov discrepancy
+      └──── 296059.jpg            # Test image
 ```
 
 ## Dependencies
