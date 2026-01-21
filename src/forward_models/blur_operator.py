@@ -14,4 +14,4 @@ def blur_matrix(n: int, sigma: float, kernel_radius: int = 10) -> np.ndarray:
         for j in range(n):
             shift = (i - j) % n
             A[i, j] = k[shift] if shift < ksize else 0.0
-    return A
+    return A 

@@ -1,3 +1,5 @@
+results
+
 # Environment variables
 .venv
 .env
@@ -49,12 +51,4 @@ env/
 .DS_Store
 Thumbs.db
 
-# Project specific
-results/figures/*.png
-results/figures/*.pdf
-results/llm_outputs/*.txt
-results/metrics/*.csv
-results/metrics/*.json
-data/synthetic/measurements/*.npy
-data/synthetic/operators/*.npy
-data/synthetic/signals/*.npy
+

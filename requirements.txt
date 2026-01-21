@@ -1,6 +1,0 @@
-numpy>=1.24
-scipy>=1.11
-matplotlib>=3.8
-pandas>=2.0
-openai>=1.51
-python-dotenv>=1.0
